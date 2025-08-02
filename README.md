@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **deependrakumar.nx@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K5A55-exugcEC4rI2KfsKQoWJ9f3p9Qs/view?usp=sharing](https://drive.google.com/file/d/1K5A55-exugcEC4rI2KfsKQoWJ9f3p9Qs/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deependraksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deependraksingh" height="30" width="40" /></a>
